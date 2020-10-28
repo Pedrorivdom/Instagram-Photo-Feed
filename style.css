@@ -1,0 +1,69 @@
+body{
+  background-color: lightgray;
+  font-family: leckerli;
+
+
+}
+
+strong {
+  font-size: 24px;
+  color: gray;
+}
+
+.navbar{
+  justify-content: space-around;
+}
+
+.fab, .fas {
+  font-size: 20px;
+  color: gray;
+}
+
+.dropdown {
+  float: right;
+}
+
+
+.col-4{
+  height: 33.3%
+}
+span {
+  float: right;
+  color: gray;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+
+
+h5 {
+  font-family: leckerli;
+}
+.card{
+  font-family: arial;
+  font-size: 18px;
+  width:100%;
+}
+
+h5{
+  font-family: arial;
+  font-weight: bold;
+}
+.card-header{
+  font-family: arial;
+}
+
+
+
+.card-body{
+  padding: 0px;
+}
+
+.heart{
+  color: gray;
+}
+
+.menu{
+  float: right;
+}
